@@ -1,4 +1,4 @@
-FILEPATH = r"C:\Users\Mikheil Matiashvili\Desktop\PY\application_one\data\app_data.txt"
+FILEPATH = "data/app_data.txt"
 
 # ! read the txt file custom function
 
